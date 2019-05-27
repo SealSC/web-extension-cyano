@@ -17,7 +17,7 @@ import "@sealsc/web-extension-cyano"
 ```
 
 ### Documentation
-Coming soon.
+[Seal SC web extension cyano](https://sealsc.github.io/documents/en/web-extensions/cyano/)
 
 ### License
 The source is made available under the MIT license.
